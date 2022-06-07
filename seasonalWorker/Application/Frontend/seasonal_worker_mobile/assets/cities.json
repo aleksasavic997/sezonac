@@ -1,0 +1,6856 @@
+{
+  "items": [
+    {
+      "CityName": "Ada",
+      "Zip": 24430,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Adaševci",
+      "Zip": 22244,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Adorjan",
+      "Zip": 24425,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Adrani",
+      "Zip": 36203,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Azanja",
+      "Zip": 11423,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Aleksa Šantić",
+      "Zip": 25212,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Aleksandrovac",
+      "Zip": 12370,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Aleksandrovac",
+      "Zip": 37230,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Aleksandrovo",
+      "Zip": 23217,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Aleksinac",
+      "Zip": 18220,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Aleksinački Rudnik",
+      "Zip": 18226,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Alibunar",
+      "Zip": 26310,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Aljinovići",
+      "Zip": 31307,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Apatin",
+      "Zip": 25260,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Aradac",
+      "Zip": 23207,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Aranđelovac",
+      "Zip": 34300,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Arilje",
+      "Zip": 31230,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ašanja",
+      "Zip": 22418,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Babušnica",
+      "Zip": 18330,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bavanište",
+      "Zip": 26222,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bagrdan",
+      "Zip": 35204,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Badnjevac",
+      "Zip": 34226,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Badovinci",
+      "Zip": 15358,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bajina Bašta",
+      "Zip": 31250,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bajmok",
+      "Zip": 24210,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bajša",
+      "Zip": 24331,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Balajnac",
+      "Zip": 18257,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Baljevac",
+      "Zip": 36344,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banatska Dubica",
+      "Zip": 23251,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banatska Palanka",
+      "Zip": 26324,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banatska Subotica",
+      "Zip": 26327,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banatska Topola",
+      "Zip": 23315,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banatski Brestovac",
+      "Zip": 26234,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banatski Dvor",
+      "Zip": 23213,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banatski Despotovac",
+      "Zip": 23242,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banatski Karlovac",
+      "Zip": 26320,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banatsko Aranđelovo",
+      "Zip": 23332,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banatsko Veliko Selo",
+      "Zip": 23312,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banatsko Karađorđevo",
+      "Zip": 23216,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banatsko Novo Selo",
+      "Zip": 26314,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banovo Polje",
+      "Zip": 15362,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banovci-Dunav",
+      "Zip": 22303,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banoštor",
+      "Zip": 21312,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banja",
+      "Zip": 34304,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banja (kod Priboja)",
+      "Zip": 31337,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banja Koviljača",
+      "Zip": 15316,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banjani",
+      "Zip": 14214,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Banjska",
+      "Zip": 38216,
+      "County": "Kosovskomitrovački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Barajevo",
+      "Zip": 11460,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Baranda",
+      "Zip": 26205,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Barbatovac",
+      "Zip": 18426,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bare",
+      "Zip": 12227,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bare",
+      "Zip": 34205,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bare",
+      "Zip": 36315,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Barice",
+      "Zip": 26367,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Barič",
+      "Zip": 11504,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Barlovo",
+      "Zip": 18432,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Baroševac",
+      "Zip": 11565,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Batočina",
+      "Zip": 34227,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Batrovci",
+      "Zip": 22251,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Batuse",
+      "Zip": 38210,
+      "County": "Kosovski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bač",
+      "Zip": 21420,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bačevci",
+      "Zip": 31258,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bačina",
+      "Zip": 37265,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bačinci",
+      "Zip": 22225,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bačka Palanka",
+      "Zip": 21400,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bačka Topola",
+      "Zip": 24300,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bački Breg",
+      "Zip": 25275,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bački Brestovac",
+      "Zip": 25242,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bački Vinogradi",
+      "Zip": 24415,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bački Gračac",
+      "Zip": 25252,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bački Jarak",
+      "Zip": 21234,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bački Monoštor",
+      "Zip": 25272,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bački Petrovac",
+      "Zip": 21470,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bački Sokolac",
+      "Zip": 24343,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bačko Gradište",
+      "Zip": 21217,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bačko Dobro Polje",
+      "Zip": 21465,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bačko Novo Selo",
+      "Zip": 21429,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bačko Petrovo Selo",
+      "Zip": 21226,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bašaid",
+      "Zip": 23316,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Begeč",
+      "Zip": 21411,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bezdan",
+      "Zip": 25270,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bela Voda",
+      "Zip": 37253,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bela Zemlja",
+      "Zip": 31311,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bela Palanka",
+      "Zip": 18310,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bela Crkva",
+      "Zip": 15313,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bela Crkva",
+      "Zip": 26340,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Belanovica",
+      "Zip": 14246,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bele Vode",
+      "Zip": 32259,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Belegiš",
+      "Zip": 22306,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Beli Potok",
+      "Zip": 11223,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Beli Potok",
+      "Zip": 19366,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Belo Blato",
+      "Zip": 23205,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Beloljin",
+      "Zip": 18424,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Belosavci",
+      "Zip": 34312,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Belotinac",
+      "Zip": 18411,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Beloševac",
+      "Zip": 34208,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Belušić",
+      "Zip": 35263,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Beljina",
+      "Zip": 11461,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Beograd",
+      "Zip": 11000,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Beočin",
+      "Zip": 21300,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Berkasovo",
+      "Zip": 22242,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bečej",
+      "Zip": 21220,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bešenovo",
+      "Zip": 22212,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Beška",
+      "Zip": 22324,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bigrenica",
+      "Zip": 35238,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bikić Do",
+      "Zip": 22254,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bikovo",
+      "Zip": 24206,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Biljača",
+      "Zip": 17522,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bingula",
+      "Zip": 22253,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bioska",
+      "Zip": 31241,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bistar",
+      "Zip": 17546,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bistrica",
+      "Zip": 31325,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Blaževo",
+      "Zip": 37226,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Blace",
+      "Zip": 18420,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bobovo",
+      "Zip": 35217,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bogaraš",
+      "Zip": 24408,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bogatić",
+      "Zip": 15350,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bogovađa",
+      "Zip": 14225,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bogovina",
+      "Zip": 19372,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bogojevo",
+      "Zip": 25245,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bogojevce",
+      "Zip": 16254,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bogutovac",
+      "Zip": 36341,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bođani",
+      "Zip": 21427,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Boževac",
+      "Zip": 12313,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Božetići",
+      "Zip": 31322,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Božica",
+      "Zip": 17537,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bojnik",
+      "Zip": 16205,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Boka",
+      "Zip": 23252,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Boljevac",
+      "Zip": 19370,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Boljkovci",
+      "Zip": 32312,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bor",
+      "Zip": 19210,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Borski Brestovac",
+      "Zip": 19229,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bosilegrad",
+      "Zip": 17540,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bosut",
+      "Zip": 22217,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Botoš",
+      "Zip": 23243,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bočar",
+      "Zip": 23274,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bošnjane",
+      "Zip": 37262,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bošnjace",
+      "Zip": 16232,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bradarac",
+      "Zip": 12206,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Braničevo",
+      "Zip": 12222,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brankovina",
+      "Zip": 14201,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bratljevo",
+      "Zip": 32256,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Braćevac",
+      "Zip": 19315,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brvenik",
+      "Zip": 36346,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brgule",
+      "Zip": 14212,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brđani",
+      "Zip": 32303,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brežđe",
+      "Zip": 14244,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brezjak",
+      "Zip": 15309,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brezna",
+      "Zip": 32307,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brezova",
+      "Zip": 32253,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brezovica",
+      "Zip": 38157,
+      "County": "Kosovski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brekovo",
+      "Zip": 31234,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bresnica",
+      "Zip": 32213,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brestovac",
+      "Zip": 16253,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brestovačka Banja",
+      "Zip": 19216,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brza Palanka",
+      "Zip": 19323,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brzi Brod",
+      "Zip": 18116,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brzan",
+      "Zip": 34228,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brzeće",
+      "Zip": 37225,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brodarevo",
+      "Zip": 31305,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brus",
+      "Zip": 37220,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Brusnik",
+      "Zip": 19313,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Budisava",
+      "Zip": 21242,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Buđanovci",
+      "Zip": 22421,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bujanovac",
+      "Zip": 17520,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bukovac",
+      "Zip": 21209,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bukovik",
+      "Zip": 34301,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bukovica",
+      "Zip": 32251,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bukorovac",
+      "Zip": 34217,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bunar",
+      "Zip": 35273,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Burdimo",
+      "Zip": 18368,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Burovac",
+      "Zip": 12307,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Busilovac",
+      "Zip": 35249,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Bučje",
+      "Zip": 19369,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vajska",
+      "Zip": 21426,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Valjevo",
+      "Zip": 14000,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Varvarin",
+      "Zip": 37260,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Varda",
+      "Zip": 31263,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Varna",
+      "Zip": 15232,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Varoš",
+      "Zip": 18363,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vasilj",
+      "Zip": 19367,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vatin",
+      "Zip": 26337,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vašica",
+      "Zip": 22241,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Velebit",
+      "Zip": 24428,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Velesnica",
+      "Zip": 19328,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Velika Vrbnica",
+      "Zip": 37233,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Velika Grabovnica",
+      "Zip": 16221,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Velika Greda",
+      "Zip": 26366,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Velika Drenova",
+      "Zip": 37245,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Velika Ivanča",
+      "Zip": 11414,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Velika Jasikova",
+      "Zip": 19235,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Velika Krsna",
+      "Zip": 11408,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Velika Lomnica",
+      "Zip": 37209,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Velika Moštanica",
+      "Zip": 11262,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Velika Plana",
+      "Zip": 11320,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Velika Plana",
+      "Zip": 18403,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Velika Reka",
+      "Zip": 15322,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Veliki Borak",
+      "Zip": 11462,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Veliki Gaj",
+      "Zip": 26365,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Veliki Izvor",
+      "Zip": 19206,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Veliki Popović",
+      "Zip": 35223,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Veliki Radinci",
+      "Zip": 22211,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Veliki Trnovac",
+      "Zip": 17528,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Veliki Crljeni",
+      "Zip": 11563,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Veliki Šiljegovac",
+      "Zip": 37204,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Veliko Bonjince",
+      "Zip": 18215,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Veliko Gradište",
+      "Zip": 12220,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Veliko Laole",
+      "Zip": 12306,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Veliko Orašje",
+      "Zip": 11323,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Veliko Središte",
+      "Zip": 26334,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Venčane",
+      "Zip": 34306,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Veternik",
+      "Zip": 21203,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vilovo",
+      "Zip": 21246,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vina",
+      "Zip": 19368,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vionica",
+      "Zip": 32254,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Visočka Ržana",
+      "Zip": 18306,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vitanovac",
+      "Zip": 36206,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vitkovac",
+      "Zip": 36207,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vitoševac",
+      "Zip": 37213,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Viča",
+      "Zip": 32233,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Višnjevac",
+      "Zip": 24222,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Višnjićevo",
+      "Zip": 22246,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vladimirovac",
+      "Zip": 26315,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vladimirci",
+      "Zip": 15225,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vladičin Han",
+      "Zip": 17510,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vlajkovac",
+      "Zip": 26332,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vlase",
+      "Zip": 17507,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vlasotince",
+      "Zip": 16210,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vlaška",
+      "Zip": 11406,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Voganj",
+      "Zip": 22429,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vodanj",
+      "Zip": 11328,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vojvoda Stepa",
+      "Zip": 23219,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vojvodinci",
+      "Zip": 26338,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vojka",
+      "Zip": 22313,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vojska",
+      "Zip": 35208,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Voluja",
+      "Zip": 12256,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vražogrnac",
+      "Zip": 19312,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vranić",
+      "Zip": 11427,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vranovo",
+      "Zip": 11329,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vranje",
+      "Zip": 17501,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vranjska Banja",
+      "Zip": 17541,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vratarnica",
+      "Zip": 19344,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vraćevšnica",
+      "Zip": 32315,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vračev Gaj",
+      "Zip": 26348,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vrba",
+      "Zip": 36214,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vrbas",
+      "Zip": 21460,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vrbica",
+      "Zip": 23329,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vrbovac",
+      "Zip": 38263,
+      "County": "Kosovskopomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vrdnik",
+      "Zip": 22408,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vreoci",
+      "Zip": 11560,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vrmdža",
+      "Zip": 18236,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vrnjačka Banja",
+      "Zip": 36210,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vrnjci",
+      "Zip": 36217,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vrćenovica",
+      "Zip": 18221,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vrhpolje",
+      "Zip": 15324,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vršac",
+      "Zip": 26300,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vukovac",
+      "Zip": 12318,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vučje",
+      "Zip": 16203,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gaj",
+      "Zip": 26223,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gajdobra",
+      "Zip": 21432,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gakovo",
+      "Zip": 25282,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gamzigradska Banja",
+      "Zip": 19228,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gardinovci",
+      "Zip": 21247,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gadžin Han",
+      "Zip": 18240,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gibarac",
+      "Zip": 22258,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Glavinci",
+      "Zip": 35261,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Globoder",
+      "Zip": 37251,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Glogovac",
+      "Zip": 35222,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Glogonj",
+      "Zip": 26202,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gložan",
+      "Zip": 21412,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Glušci",
+      "Zip": 15356,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gnjilan",
+      "Zip": 18309,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Golobok",
+      "Zip": 11316,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Golubac",
+      "Zip": 12223,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Golubinci",
+      "Zip": 22308,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Goračići",
+      "Zip": 32232,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gornja Dobrinja",
+      "Zip": 31214,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gornja Draguša",
+      "Zip": 18425,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gornja Lisina",
+      "Zip": 17538,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gornja Sabanta",
+      "Zip": 34206,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gornja Toplica",
+      "Zip": 14243,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gornja Toponica",
+      "Zip": 18202,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gornja Trepča",
+      "Zip": 32215,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gornja Trnava",
+      "Zip": 34324,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gornje Dvorane",
+      "Zip": 37206,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gornji Barbeš",
+      "Zip": 18241,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gornji Breg",
+      "Zip": 24406,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gornji Matejevac",
+      "Zip": 18204,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gornji Milanovac",
+      "Zip": 32300,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gornji Stepoš",
+      "Zip": 37221,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gornji Stupanj",
+      "Zip": 37234,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gospođinci",
+      "Zip": 21237,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gostun",
+      "Zip": 31308,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Grabovac",
+      "Zip": 11508,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Grabovica",
+      "Zip": 19327,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Grabovci",
+      "Zip": 22423,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gradskovo",
+      "Zip": 19205,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gračanica",
+      "Zip": 38205,
+      "County": "Kosovski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Grgurevci",
+      "Zip": 22213,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Grdelica",
+      "Zip": 16220,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Grebenac",
+      "Zip": 26347,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Grlište",
+      "Zip": 19342,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Grljan",
+      "Zip": 19341,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Grošnica",
+      "Zip": 34202,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gruža",
+      "Zip": 34230,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Guberevac",
+      "Zip": 16211,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Guberevac",
+      "Zip": 34232,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gudurica",
+      "Zip": 26335,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Gunaroš",
+      "Zip": 24312,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Guča",
+      "Zip": 32230,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Guševac",
+      "Zip": 18208,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Darosava",
+      "Zip": 34305,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Debeljača",
+      "Zip": 26214,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Debrc",
+      "Zip": 15214,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Devojački Bunar",
+      "Zip": 26316,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Deževa",
+      "Zip": 36305,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Deliblato",
+      "Zip": 26225,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Delimeđe",
+      "Zip": 36307,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Deronje",
+      "Zip": 25254,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Desimirovac",
+      "Zip": 34321,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Despotovac",
+      "Zip": 35213,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Despotovo",
+      "Zip": 21468,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Deč",
+      "Zip": 22441,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Divljaka",
+      "Zip": 31236,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Divostin",
+      "Zip": 34204,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Divoš",
+      "Zip": 22232,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Divci",
+      "Zip": 14222,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Divčibare",
+      "Zip": 14204,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dimitrovgrad",
+      "Zip": 18320,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dobra",
+      "Zip": 12224,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dobri Do",
+      "Zip": 18408,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dobrinci",
+      "Zip": 22412,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dobrić",
+      "Zip": 15235,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dobrica",
+      "Zip": 26354,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dolac",
+      "Zip": 18314,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dolovo",
+      "Zip": 26227,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Doljevac",
+      "Zip": 18410,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donja Bela Reka",
+      "Zip": 19213,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donja Borina",
+      "Zip": 15317,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donja Gušterica",
+      "Zip": 38207,
+      "County": "Kosovski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donja Kamenica",
+      "Zip": 19352,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donja Ljubata",
+      "Zip": 17544,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donja Mutnica",
+      "Zip": 35255,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donja Orovica",
+      "Zip": 15323,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donja Rečica",
+      "Zip": 18404,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donja Trnava",
+      "Zip": 18421,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donja Šatornja",
+      "Zip": 34314,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donje Vidovo",
+      "Zip": 35258,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donje Zuniče",
+      "Zip": 19345,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donje Međurovo",
+      "Zip": 18254,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donje Crnatovo",
+      "Zip": 18414,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donje Crniljevo",
+      "Zip": 15227,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donji Dušnik",
+      "Zip": 18242,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donji Krčin",
+      "Zip": 37258,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donji Milanovac",
+      "Zip": 19220,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Donji Stajevac",
+      "Zip": 17526,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Doroslovo",
+      "Zip": 25243,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Draginac",
+      "Zip": 15311,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Draginje",
+      "Zip": 15226,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Draglica",
+      "Zip": 31317,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dragobraća",
+      "Zip": 34231,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dragovo",
+      "Zip": 35265,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dragolj",
+      "Zip": 32316,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dragocvet",
+      "Zip": 35272,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dragoševac",
+      "Zip": 35262,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Draževac",
+      "Zip": 11506,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Draževac",
+      "Zip": 18223,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Drajkovce",
+      "Zip": 38239,
+      "County": "Kosovski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dračić",
+      "Zip": 14203,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Drenovac",
+      "Zip": 15212,
+      "County": "mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Drenovac",
+      "Zip": 35257,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Drugovac",
+      "Zip": 11432,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dublje",
+      "Zip": 15359,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dubovac",
+      "Zip": 26224,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dubovo",
+      "Zip": 18406,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Duboka",
+      "Zip": 12255,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Duboka",
+      "Zip": 35218,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dubočane",
+      "Zip": 19232,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dubravica",
+      "Zip": 12207,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Duga Poljana",
+      "Zip": 36312,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dugo Polje",
+      "Zip": 18237,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dudovica",
+      "Zip": 11561,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Dupljaja",
+      "Zip": 26328,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Đala",
+      "Zip": 23335,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Đunis",
+      "Zip": 37202,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Đurđevo",
+      "Zip": 21239,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Đurđin",
+      "Zip": 24213,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Elemir",
+      "Zip": 23208,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Erdevik",
+      "Zip": 22230,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Erdeč",
+      "Zip": 34207,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ečka",
+      "Zip": 23203,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Žabalj",
+      "Zip": 21230,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Žabari",
+      "Zip": 12374,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Žagubica",
+      "Zip": 12320,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Željuše",
+      "Zip": 18325,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Žirovnica",
+      "Zip": 34229,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Žitište",
+      "Zip": 23210,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Žitkovac",
+      "Zip": 18210,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Žitni Potok",
+      "Zip": 18407,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Žitorađa",
+      "Zip": 18412,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Žiča",
+      "Zip": 36221,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Žuč",
+      "Zip": 18438,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zablaće",
+      "Zip": 32223,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zabojnica",
+      "Zip": 34244,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zabrežje",
+      "Zip": 11505,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zavlaka",
+      "Zip": 15312,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zagajica",
+      "Zip": 26344,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zajača",
+      "Zip": 15315,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zaječar",
+      "Zip": 19000,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zaplanjska Toponica",
+      "Zip": 18244,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zasavica",
+      "Zip": 22201,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zvezdan",
+      "Zip": 19227,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zvečan",
+      "Zip": 38227,
+      "County": "Kosovskomitrovački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zvonce",
+      "Zip": 18333,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zdravinje",
+      "Zip": 37203,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zlatibor",
+      "Zip": 31315,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zlatica",
+      "Zip": 23255,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zlodol",
+      "Zip": 31253,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zlot",
+      "Zip": 19215,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zmajevo",
+      "Zip": 21213,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zminjak",
+      "Zip": 15352,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zrenjanin",
+      "Zip": 23000,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zubin Potok",
+      "Zip": 38228,
+      "County": "Kosovskomitrovački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zuce",
+      "Zip": 11225,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ivanovo",
+      "Zip": 26233,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ivanjica",
+      "Zip": 32250,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Idvor",
+      "Zip": 26207,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Iđoš",
+      "Zip": 23323,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Izbište",
+      "Zip": 26343,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ilandža",
+      "Zip": 26352,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ilinci",
+      "Zip": 22250,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ilićevo",
+      "Zip": 34203,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Inđija",
+      "Zip": 22320,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Irig",
+      "Zip": 22406,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jabuka",
+      "Zip": 26201,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jabuka",
+      "Zip": 31306,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jabukovac",
+      "Zip": 19304,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jabučje",
+      "Zip": 14226,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jagnjilo",
+      "Zip": 11412,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jagodina",
+      "Zip": 35000,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jadranska Lešnica",
+      "Zip": 15308,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jazak",
+      "Zip": 22409,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jazovo",
+      "Zip": 23327,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jamena",
+      "Zip": 22248,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jankov Most",
+      "Zip": 23201,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Janošik",
+      "Zip": 26362,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jarak",
+      "Zip": 22426,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jarkovac",
+      "Zip": 23250,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jarmenovci",
+      "Zip": 34318,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jasenovo",
+      "Zip": 26346,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jasenovo",
+      "Zip": 31319,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jasenovo",
+      "Zip": 35241,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jasika",
+      "Zip": 37252,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jasikovica",
+      "Zip": 37247,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jasikovo",
+      "Zip": 19256,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jaša Tomić",
+      "Zip": 23230,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ježevica",
+      "Zip": 31213,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ježevica",
+      "Zip": 32222,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jelašnica",
+      "Zip": 17531,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jelašnica",
+      "Zip": 18206,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jelen Do",
+      "Zip": 31215,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jelovik",
+      "Zip": 34309,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jermenovci",
+      "Zip": 26363,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jovanovac",
+      "Zip": 18258,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jovanovac",
+      "Zip": 34211,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jovac",
+      "Zip": 35205,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jošanica",
+      "Zip": 18234,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jošanička Banja",
+      "Zip": 36345,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Jugbogdanovac",
+      "Zip": 18253,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Junkovac",
+      "Zip": 11562,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kalna",
+      "Zip": 19353,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kaluđerica",
+      "Zip": 11130,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kamenica",
+      "Zip": 14252,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kamenica",
+      "Zip": 15222,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kamenica",
+      "Zip": 18324,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kanjiža",
+      "Zip": 24420,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kaona",
+      "Zip": 32234,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kaonik",
+      "Zip": 37256,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Karavukovo",
+      "Zip": 25255,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Karađorđevo",
+      "Zip": 21421,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Karađorđevo",
+      "Zip": 24308,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Karan",
+      "Zip": 31204,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Karlovčić",
+      "Zip": 22443,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Katun",
+      "Zip": 18225,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kać",
+      "Zip": 21241,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kačarevo",
+      "Zip": 26212,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kevi",
+      "Zip": 24407,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kelebija",
+      "Zip": 24104,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kelebija gran. prelaz",
+      "Zip": 24205,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kikinda",
+      "Zip": 23300,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kisač",
+      "Zip": 21211,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kladovo",
+      "Zip": 19320,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Klek",
+      "Zip": 23211,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Klenak",
+      "Zip": 22424,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Klenike",
+      "Zip": 17524,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Klenje",
+      "Zip": 12258,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Klenje",
+      "Zip": 15357,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Klisura",
+      "Zip": 17535,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kličevac",
+      "Zip": 12209,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Klokočevac",
+      "Zip": 19222,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kljajićevo",
+      "Zip": 25221,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Knić",
+      "Zip": 34240,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Knićanin",
+      "Zip": 23265,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Knjaževac",
+      "Zip": 19350,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kobišnica",
+      "Zip": 19316,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kovačevac",
+      "Zip": 11409,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kovačica",
+      "Zip": 26210,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kovilj",
+      "Zip": 21243,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kovin",
+      "Zip": 26220,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kokin Brod",
+      "Zip": 31318,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kolare",
+      "Zip": 35242,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kolari",
+      "Zip": 11431,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kolut",
+      "Zip": 25274,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Komirić",
+      "Zip": 14254,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Konak",
+      "Zip": 23253,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Konarevo",
+      "Zip": 36340,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Končarevo",
+      "Zip": 35219,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Konjuh",
+      "Zip": 37254,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kopaonik",
+      "Zip": 36354,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Koprivnica",
+      "Zip": 19223,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Koraćica",
+      "Zip": 11415,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Korbevac",
+      "Zip": 17545,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Korbovo",
+      "Zip": 19329,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Korenita",
+      "Zip": 15302,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Korman",
+      "Zip": 18216,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Korman",
+      "Zip": 34224,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kosančić",
+      "Zip": 16206,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kosjerić",
+      "Zip": 31260,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kosovo Polje",
+      "Zip": 38210,
+      "County": "Kosovski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kosovska Kamenica",
+      "Zip": 38260,
+      "County": "Kosovskopomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kosovska Mitrovica",
+      "Zip": 38220,
+      "County": "Kosovskomitrovački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kostojevići",
+      "Zip": 31254,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kostolac",
+      "Zip": 12208,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kotraža",
+      "Zip": 32235,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Koceljeva",
+      "Zip": 15220,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kragujevac",
+      "Zip": 34000,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Krajišnik",
+      "Zip": 23231,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kraljevo",
+      "Zip": 36000,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kraljevci",
+      "Zip": 22411,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kremna",
+      "Zip": 31242,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Krepoljin",
+      "Zip": 12316,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kriva Feja",
+      "Zip": 17543,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Krivaja",
+      "Zip": 24341,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Krivelj",
+      "Zip": 19219,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Krivi Vir",
+      "Zip": 19375,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Krnjevo",
+      "Zip": 11319,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Krnješevci",
+      "Zip": 22314,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Krupanj",
+      "Zip": 15314,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Krupac",
+      "Zip": 18307,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Krušar",
+      "Zip": 35227,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kruševac",
+      "Zip": 37000,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kruševica",
+      "Zip": 18409,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Krušedol",
+      "Zip": 22328,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kruščić",
+      "Zip": 25225,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Krčedin",
+      "Zip": 22325,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kuzmin",
+      "Zip": 22223,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kukljin",
+      "Zip": 37255,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kukujevci",
+      "Zip": 22224,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kula",
+      "Zip": 25230,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kulina",
+      "Zip": 18214,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kulpin",
+      "Zip": 21472,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kumane",
+      "Zip": 23271,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kupinik",
+      "Zip": 26368,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kupinovo",
+      "Zip": 22419,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kupusina",
+      "Zip": 25262,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kupci",
+      "Zip": 37222,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kuršumlija",
+      "Zip": 18430,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kuršumlijska Banja",
+      "Zip": 18435,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kusadak",
+      "Zip": 11425,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kusić",
+      "Zip": 26349,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kucura",
+      "Zip": 21466,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kučevo",
+      "Zip": 12240,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kušiljevo",
+      "Zip": 35226,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kušići",
+      "Zip": 32258,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Kuštilj",
+      "Zip": 26336,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lađevci",
+      "Zip": 36204,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lazarevac",
+      "Zip": 11550,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lazarevo",
+      "Zip": 23241,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Laznica",
+      "Zip": 12321,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lajkovac",
+      "Zip": 14224,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lalinac",
+      "Zip": 18256,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lalinac",
+      "Zip": 18201,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lalić",
+      "Zip": 25234,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Laplje Selo",
+      "Zip": 38204,
+      "County": "Kosovski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lapovo",
+      "Zip": 34221,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lapovo (Varoš)",
+      "Zip": 34220,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Laćarak",
+      "Zip": 22221,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lebane",
+      "Zip": 16230,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ledinci",
+      "Zip": 21207,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ležimir",
+      "Zip": 22207,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lelić",
+      "Zip": 14205,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lenovac",
+      "Zip": 19343,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lepenac",
+      "Zip": 37224,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lepenica",
+      "Zip": 17513,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lepina",
+      "Zip": 38208,
+      "County": "Kosovski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Leposavić",
+      "Zip": 38218,
+      "County": "Kosovskomitrovački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Leskovac",
+      "Zip": 16000,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lece",
+      "Zip": 16248,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lešak",
+      "Zip": 38219,
+      "County": "Kosovskomitrovački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lešnica",
+      "Zip": 15307,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lipar",
+      "Zip": 25232,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lipe",
+      "Zip": 11310,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lipnički Šor",
+      "Zip": 15341,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lipolist",
+      "Zip": 15305,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lički Hanovi",
+      "Zip": 18245,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lovćenac",
+      "Zip": 24322,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Loznica",
+      "Zip": 15300,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lozovik",
+      "Zip": 11317,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lok",
+      "Zip": 21248,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lokve",
+      "Zip": 26361,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Loćika",
+      "Zip": 35274,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lubnica",
+      "Zip": 19208,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lug",
+      "Zip": 21315,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lugavčina",
+      "Zip": 11321,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lužnice",
+      "Zip": 34325,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lukare",
+      "Zip": 36306,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lukino Selo",
+      "Zip": 23224,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lukićevo",
+      "Zip": 23261,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lukovo",
+      "Zip": 19371,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lukovska Banja",
+      "Zip": 18437,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lunovo Selo",
+      "Zip": 31203,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Lučani",
+      "Zip": 32240,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ljig",
+      "Zip": 14240,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ljuba",
+      "Zip": 22255,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ljuberađa",
+      "Zip": 18217,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ljubiš",
+      "Zip": 31209,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ljubovija",
+      "Zip": 15320,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ljukovo",
+      "Zip": 22321,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ljutovo",
+      "Zip": 24215,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Maglić",
+      "Zip": 21473,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Majdan",
+      "Zip": 23333,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Majdanpek",
+      "Zip": 19250,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Majilovac",
+      "Zip": 12221,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Majur",
+      "Zip": 15353,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Majur",
+      "Zip": 35270,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mala Bosna",
+      "Zip": 24217,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mala Krsna",
+      "Zip": 11313,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mala Moštanica",
+      "Zip": 11261,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mala Plana",
+      "Zip": 18423,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Male Pijace",
+      "Zip": 24416,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Male Pčelice",
+      "Zip": 34216,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mali Beograd",
+      "Zip": 24309,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mali Zvornik",
+      "Zip": 15318,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mali Iđoš",
+      "Zip": 24321,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mali Izvor",
+      "Zip": 19347,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mali Jasenovac",
+      "Zip": 19209,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mali Požarevac",
+      "Zip": 11235,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Malo Krčmare",
+      "Zip": 34212,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Malo Crniće",
+      "Zip": 12311,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Malošište",
+      "Zip": 18415,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Malča",
+      "Zip": 18207,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Manđelos",
+      "Zip": 22208,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Manojlovce",
+      "Zip": 16201,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Maradik",
+      "Zip": 22327,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Margita",
+      "Zip": 26364,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Markovac",
+      "Zip": 11325,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Markovica",
+      "Zip": 32243,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Martinci",
+      "Zip": 22222,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Martonoš",
+      "Zip": 24417,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Maršić",
+      "Zip": 34209,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mataruška Banja",
+      "Zip": 36201,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mačvanska Mitrovica",
+      "Zip": 22202,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mačvanski Pričinović",
+      "Zip": 15211,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mačkat",
+      "Zip": 31312,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Medveđa",
+      "Zip": 16240,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Medveđa",
+      "Zip": 35224,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Medveđa",
+      "Zip": 37244,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Medoševac",
+      "Zip": 18209,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Međa",
+      "Zip": 23234,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Međulužje",
+      "Zip": 11405,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Međurečje",
+      "Zip": 32255,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Melenci",
+      "Zip": 23270,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Melenci-Rusanda",
+      "Zip": 23269,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Meljak",
+      "Zip": 11426,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Merdare",
+      "Zip": 18445,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Merošina",
+      "Zip": 18252,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Merćez",
+      "Zip": 18436,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Metlić",
+      "Zip": 15233,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Metovnica",
+      "Zip": 19204,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mijatovac",
+      "Zip": 35236,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Milatovac",
+      "Zip": 34222,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Milentija",
+      "Zip": 37227,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Miletićevo",
+      "Zip": 26373,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mileševo",
+      "Zip": 21227,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Miloševac",
+      "Zip": 11318,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Miloševo",
+      "Zip": 35268,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Milutovac",
+      "Zip": 37246,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Minićevo",
+      "Zip": 19340,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mionica",
+      "Zip": 14242,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mirosaljci",
+      "Zip": 11567,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Miroševce",
+      "Zip": 16204,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mitrovac",
+      "Zip": 31251,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mihajlovac",
+      "Zip": 11312,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mihajlovac",
+      "Zip": 19322,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mihajlovo",
+      "Zip": 23202,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mišićevo",
+      "Zip": 24211,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mladenovac",
+      "Zip": 11400,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mladenovo",
+      "Zip": 21422,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mozgovo",
+      "Zip": 18229,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mokra Gora",
+      "Zip": 31243,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mokrin",
+      "Zip": 23305,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mol",
+      "Zip": 24435,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Molovin",
+      "Zip": 22256,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Morović",
+      "Zip": 22245,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mošorin",
+      "Zip": 21245,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mramor",
+      "Zip": 18251,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mramorak",
+      "Zip": 26226,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mrčajevci",
+      "Zip": 32210,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mršinci",
+      "Zip": 32224,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Mužlja",
+      "Zip": 23206,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Muhovac",
+      "Zip": 17529,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Nadalj",
+      "Zip": 21216,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Nakovo",
+      "Zip": 23311,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Natalinci",
+      "Zip": 34313,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Negotin",
+      "Zip": 19300,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Neresnica",
+      "Zip": 12242,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Neuzina",
+      "Zip": 23245,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Neštin",
+      "Zip": 21314,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Nikinci",
+      "Zip": 22422,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Nikolinci",
+      "Zip": 26322,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Nikoličevo",
+      "Zip": 19311,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Niš",
+      "Zip": 18000,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Niševac",
+      "Zip": 18366,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Niška Banja",
+      "Zip": 18205,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Nova Varoš",
+      "Zip": 31320,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Nova Gajdobra",
+      "Zip": 21431,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Nova Pazova",
+      "Zip": 22330,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Nova Crvenka",
+      "Zip": 25224,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Nova Crnja",
+      "Zip": 23218,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novi Banovci",
+      "Zip": 22304,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novi Bečej",
+      "Zip": 23272,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novi Bračin",
+      "Zip": 37216,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novi Žednik",
+      "Zip": 24223,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novi Itebej",
+      "Zip": 23236,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novi Karlovci",
+      "Zip": 22322,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novi Kneževac",
+      "Zip": 23330,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novi Kozarci",
+      "Zip": 23313,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novi Kozjak",
+      "Zip": 26353,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novi Pazar",
+      "Zip": 36300,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novi Sad",
+      "Zip": 21000,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novi Slankamen",
+      "Zip": 22323,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novo Miloševo",
+      "Zip": 23273,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novo Orahovo",
+      "Zip": 24351,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novo Selo",
+      "Zip": 18250,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novo Selo",
+      "Zip": 36216,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Noćaj",
+      "Zip": 22203,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Obrež",
+      "Zip": 22417,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Obrež",
+      "Zip": 37266,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Obrenovac",
+      "Zip": 11500,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Obrovac",
+      "Zip": 21423,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ovčar Banja",
+      "Zip": 32242,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ogar",
+      "Zip": 22416,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Omoljica",
+      "Zip": 26230,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Oparić",
+      "Zip": 35267,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Opovo",
+      "Zip": 26204,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Orane",
+      "Zip": 16233,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Orašac",
+      "Zip": 34308,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Oreškovica",
+      "Zip": 12308,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Orid",
+      "Zip": 15213,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Orlovat",
+      "Zip": 23263,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Orom",
+      "Zip": 24207,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Osanica",
+      "Zip": 12317,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Osečina",
+      "Zip": 14253,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Osipaonica",
+      "Zip": 11314,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ostojićevo",
+      "Zip": 23326,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ostrovica",
+      "Zip": 18312,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ostružnica",
+      "Zip": 11251,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Odžaci",
+      "Zip": 25250,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Oštrelj",
+      "Zip": 19226,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pavliš",
+      "Zip": 26333,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Padež",
+      "Zip": 37257,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Padej",
+      "Zip": 23325,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Padina",
+      "Zip": 26215,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Palić",
+      "Zip": 24413,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pambukovica",
+      "Zip": 14213,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Panonija",
+      "Zip": 24330,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pančevo",
+      "Zip": 26000,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Parage",
+      "Zip": 21434,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Paraćin",
+      "Zip": 35250,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Parteš",
+      "Zip": 38251,
+      "County": "Kosovskopomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Parunovac",
+      "Zip": 37201,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pasjane",
+      "Zip": 38266,
+      "County": "Kosovskopomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pačir",
+      "Zip": 24342,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pejkovac",
+      "Zip": 18413,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pepeljevac",
+      "Zip": 37231,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Perlez",
+      "Zip": 23260,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Perućac",
+      "Zip": 31256,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Petlovača",
+      "Zip": 15304,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Petrovaradin",
+      "Zip": 21131,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Petrovac",
+      "Zip": 12300,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pećinci",
+      "Zip": 22410,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pecka",
+      "Zip": 14207,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pečenjevce",
+      "Zip": 16251,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pivnice",
+      "Zip": 21469,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pinosava",
+      "Zip": 11226,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pirot",
+      "Zip": 18300,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Plavna",
+      "Zip": 19307,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Plavna",
+      "Zip": 21428,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Plažane",
+      "Zip": 35212,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Plana",
+      "Zip": 35247,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Plandište",
+      "Zip": 26360,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Platičevo",
+      "Zip": 22420,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Plemetina",
+      "Zip": 38211,
+      "County": "Kosovski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pleš",
+      "Zip": 37238,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pločica",
+      "Zip": 26229,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pobeda",
+      "Zip": 24313,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Poganovo",
+      "Zip": 18326,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Podvis",
+      "Zip": 19362,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Podvrška",
+      "Zip": 19321,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Podgorac",
+      "Zip": 19233,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Podunavci",
+      "Zip": 36215,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Požarevac",
+      "Zip": 12000,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Požega",
+      "Zip": 31210,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pojate",
+      "Zip": 37214,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Poljana",
+      "Zip": 12372,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Poljska Ržana",
+      "Zip": 18328,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Popinci",
+      "Zip": 22428,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Popovac",
+      "Zip": 35254,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Popučke",
+      "Zip": 14221,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Porodin",
+      "Zip": 12375,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Potočac",
+      "Zip": 35207,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Poćuta",
+      "Zip": 14206,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Počekovina",
+      "Zip": 37243,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pranjani",
+      "Zip": 32308,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Prahovo",
+      "Zip": 19330,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Prevešt",
+      "Zip": 35264,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Predejane",
+      "Zip": 16222,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Prekonoga",
+      "Zip": 18365,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Preljina",
+      "Zip": 32212,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Preševo",
+      "Zip": 17523,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Preševo-terminal",
+      "Zip": 17555,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Priboj",
+      "Zip": 31330,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Priboj Vranjski",
+      "Zip": 17511,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Privina Glava",
+      "Zip": 22257,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Prigrevica",
+      "Zip": 25263,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Prijepolje",
+      "Zip": 31300,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Prilički Kiseljak",
+      "Zip": 32252,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Prilužje",
+      "Zip": 38213,
+      "County": "Kosovski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pričević",
+      "Zip": 14251,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Prnjavor (Mačvanski)",
+      "Zip": 15306,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Provo",
+      "Zip": 15215,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Prokuplje",
+      "Zip": 18400,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Prolom Banja",
+      "Zip": 18433,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pružatovac",
+      "Zip": 11413,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Prhovo",
+      "Zip": 22442,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Pukovac",
+      "Zip": 18255,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Putinci",
+      "Zip": 22404,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rabrovo",
+      "Zip": 12254,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ravna Dubrava",
+      "Zip": 18246,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ravni Topolovac",
+      "Zip": 23212,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ravni",
+      "Zip": 31206,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ravno Selo",
+      "Zip": 21471,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ravnje",
+      "Zip": 22205,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Radalj",
+      "Zip": 15321,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Radinac",
+      "Zip": 11311,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Radičević",
+      "Zip": 21225,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Radljevo",
+      "Zip": 14211,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Radovnica",
+      "Zip": 17561,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Radojevo",
+      "Zip": 23221,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Radujevac",
+      "Zip": 19334,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ražana",
+      "Zip": 31265,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ražanj",
+      "Zip": 37215,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Razbojna",
+      "Zip": 37223,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Razgojna",
+      "Zip": 16252,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rainovača",
+      "Zip": 15342,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rajković",
+      "Zip": 14202,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rakovac",
+      "Zip": 21299,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ralja",
+      "Zip": 11233,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ranilović",
+      "Zip": 34302,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ranilug",
+      "Zip": 38267,
+      "County": "Kosovskopomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ranovac",
+      "Zip": 12304,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rastina",
+      "Zip": 25283,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rataje",
+      "Zip": 37236,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ratari",
+      "Zip": 11411,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ratina",
+      "Zip": 36212,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ratkovo",
+      "Zip": 25253,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rača Kragujevačka",
+      "Zip": 34210,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rača",
+      "Zip": 18440,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rašanac",
+      "Zip": 12315,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Raševica",
+      "Zip": 35206,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Raška",
+      "Zip": 36350,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rgotina",
+      "Zip": 19214,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rekovac",
+      "Zip": 35260,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Resavica",
+      "Zip": 35237,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Resnik",
+      "Zip": 34225,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ribare",
+      "Zip": 35220,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ribari",
+      "Zip": 15310,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ribariće",
+      "Zip": 36309,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ribarska Banja",
+      "Zip": 37205,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Riđica",
+      "Zip": 25280,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ripanj",
+      "Zip": 11232,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ristovac",
+      "Zip": 17521,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rogača",
+      "Zip": 11453,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rogačica",
+      "Zip": 31255,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Roge",
+      "Zip": 31237,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rogljevo",
+      "Zip": 19318,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rožanstvo",
+      "Zip": 31208,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Roćevići",
+      "Zip": 36205,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rudna Glava",
+      "Zip": 19257,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rudnik",
+      "Zip": 32313,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rudnica",
+      "Zip": 36353,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rudno",
+      "Zip": 36222,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rudovci",
+      "Zip": 11566,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ruma",
+      "Zip": 22400,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rumenka",
+      "Zip": 21201,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ruski Krstur",
+      "Zip": 25233,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rusko Selo",
+      "Zip": 23314,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rutevac",
+      "Zip": 18224,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rušanj",
+      "Zip": 11194,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Savinac",
+      "Zip": 19377,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Savino Selo",
+      "Zip": 21467,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sajan",
+      "Zip": 23324,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sakule",
+      "Zip": 26206,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Salaš Noćajski",
+      "Zip": 22204,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Salaš",
+      "Zip": 19224,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Samaila",
+      "Zip": 36202,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Samoš",
+      "Zip": 26350,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sanad",
+      "Zip": 23331,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Saraorci",
+      "Zip": 11315,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sastav Reka",
+      "Zip": 16213,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sastavci",
+      "Zip": 31335,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sveti Ilija",
+      "Zip": 17508,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Svetozar Miletić",
+      "Zip": 25211,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Svilajnac",
+      "Zip": 35210,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Svileuva",
+      "Zip": 15221,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Svilojevo",
+      "Zip": 25265,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Svođe",
+      "Zip": 16212,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Svojnovo",
+      "Zip": 35259,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Svrljig",
+      "Zip": 18360,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sevojno",
+      "Zip": 31205,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sedlare",
+      "Zip": 35211,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Selevac",
+      "Zip": 11407,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Selenča",
+      "Zip": 21425,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Seleuš",
+      "Zip": 26351,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Senta",
+      "Zip": 24400,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Senje",
+      "Zip": 35233,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Senjski Rudnik",
+      "Zip": 35234,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sefkerin",
+      "Zip": 26203,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Seča Reka",
+      "Zip": 31262,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sečanica",
+      "Zip": 18203,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sečanj",
+      "Zip": 23240,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sibač",
+      "Zip": 22440,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sivac",
+      "Zip": 25223,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sijarinska Banja",
+      "Zip": 16246,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sikirica",
+      "Zip": 35256,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sikole",
+      "Zip": 19225,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Silbaš",
+      "Zip": 21433,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Siokovac",
+      "Zip": 35203,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sip",
+      "Zip": 19326,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sipić",
+      "Zip": 34213,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sirig",
+      "Zip": 21214,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sirogojno",
+      "Zip": 31207,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sirča",
+      "Zip": 36208,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sićevo",
+      "Zip": 18311,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sjenica",
+      "Zip": 36310,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Skela",
+      "Zip": 11509,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Skobalj",
+      "Zip": 11322,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Skorenovac",
+      "Zip": 26228,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Slavkovica",
+      "Zip": 14245,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Slatina",
+      "Zip": 19221,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Slovac",
+      "Zip": 14223,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Smederevska Palanka",
+      "Zip": 11420,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Smederevo",
+      "Zip": 11300,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Smilovci",
+      "Zip": 18323,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Smoljinac",
+      "Zip": 12312,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sokobanja",
+      "Zip": 18230,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sombor",
+      "Zip": 25000,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sonta",
+      "Zip": 25264,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sopot",
+      "Zip": 11450,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sot",
+      "Zip": 22243,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sočanica",
+      "Zip": 38217,
+      "County": "Kosovskomitrovački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sremska Mitrovica",
+      "Zip": 22000,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Srbobran",
+      "Zip": 21480,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Srednjevo",
+      "Zip": 12253,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sremska Kamenica",
+      "Zip": 21202,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sremska Rača",
+      "Zip": 22247,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sremski Karlovci",
+      "Zip": 21205,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sremski Mihaljevci",
+      "Zip": 22413,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sremčica",
+      "Zip": 11253,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Srpska Crnja",
+      "Zip": 23220,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Srpski Itebej",
+      "Zip": 23233,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Srpski Krstur",
+      "Zip": 23334,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Srpski Miletić",
+      "Zip": 25244,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stave",
+      "Zip": 14255,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stajićevo",
+      "Zip": 23204,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stalać",
+      "Zip": 37212,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stanišić",
+      "Zip": 25284,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stapar",
+      "Zip": 25240,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stara Moravica",
+      "Zip": 24340,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stara Pazova",
+      "Zip": 22300,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stari Banovci",
+      "Zip": 22305,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stari Žednik",
+      "Zip": 24224,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stari Lec",
+      "Zip": 26371,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stari Slankamen",
+      "Zip": 22329,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Staro Selo",
+      "Zip": 11324,
+      "County": "Podunavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Starčevo",
+      "Zip": 26232,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stejanovci",
+      "Zip": 22405,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stenjevac",
+      "Zip": 35215,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stepanovićevo",
+      "Zip": 21212,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stepojevac",
+      "Zip": 11564,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stojnik",
+      "Zip": 34307,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stopanja",
+      "Zip": 37242,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stragari",
+      "Zip": 34323,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Straža",
+      "Zip": 26345,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Strelac",
+      "Zip": 18332,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stubal",
+      "Zip": 17512,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stubica",
+      "Zip": 35246,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stubline",
+      "Zip": 11507,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Studenica",
+      "Zip": 36343,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Subotinac",
+      "Zip": 18227,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Subotica (kod Svijanca)",
+      "Zip": 35209,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Subotica",
+      "Zip": 24000,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Subotište",
+      "Zip": 22414,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sukovo",
+      "Zip": 18322,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sumrakovac",
+      "Zip": 19376,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Supska",
+      "Zip": 35228,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Surduk",
+      "Zip": 22307,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Surdulica",
+      "Zip": 17530,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Susek",
+      "Zip": 21313,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Sutjeska",
+      "Zip": 23244,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Tavankut",
+      "Zip": 24214,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Takovo",
+      "Zip": 32304,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Taraš",
+      "Zip": 23209,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Tekeriš",
+      "Zip": 15234,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Tekija",
+      "Zip": 19325,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Telečka",
+      "Zip": 25222,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Temerin",
+      "Zip": 21235,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Temska",
+      "Zip": 18355,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Tešica",
+      "Zip": 18212,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Titel",
+      "Zip": 21240,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Toba",
+      "Zip": 23222,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Tovariševo",
+      "Zip": 21424,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Tomaševac",
+      "Zip": 23262,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Tomislavci",
+      "Zip": 24334,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Topola",
+      "Zip": 34310,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Topolovnik",
+      "Zip": 12226,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Toponica",
+      "Zip": 34243,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Torak",
+      "Zip": 23232,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Torda",
+      "Zip": 23214,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Tornjoš",
+      "Zip": 24352,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Totovo Selo",
+      "Zip": 24427,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Trbušani",
+      "Zip": 32205,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Trgovište",
+      "Zip": 17525,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Trešnjevac",
+      "Zip": 24426,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Trešnjevica",
+      "Zip": 35248,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Trnavci",
+      "Zip": 37235,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Trnjane",
+      "Zip": 18213,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Trnjane",
+      "Zip": 19306,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Trstenik",
+      "Zip": 37240,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Trupale",
+      "Zip": 18211,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Tršić",
+      "Zip": 15303,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Tulare",
+      "Zip": 16247,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Turekovac",
+      "Zip": 16231,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Turija",
+      "Zip": 12257,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Turija",
+      "Zip": 21215,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Tutin",
+      "Zip": 36320,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ćićevac",
+      "Zip": 37210,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ćuprija",
+      "Zip": 35230,
+      "County": "Pomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ub",
+      "Zip": 14210,
+      "County": "Kolubarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ugao",
+      "Zip": 36313,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ugrinovci",
+      "Zip": 32314,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Užice",
+      "Zip": 31000,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Uzdin",
+      "Zip": 26216,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Uzovnica",
+      "Zip": 15319,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Uljma",
+      "Zip": 26330,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Umka",
+      "Zip": 11260,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Urovica",
+      "Zip": 19305,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Utrine",
+      "Zip": 24437,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Ušće",
+      "Zip": 36342,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Farkaždin",
+      "Zip": 23264,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Feketić",
+      "Zip": 24323,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Futog",
+      "Zip": 21410,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Hajdukovo",
+      "Zip": 24414,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Hajdučica",
+      "Zip": 26370,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Hetin",
+      "Zip": 23235,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Horgoš",
+      "Zip": 24410,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Horgoš granični prelaz",
+      "Zip": 24411,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Hrtkovci",
+      "Zip": 22427,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Cerovac",
+      "Zip": 15224,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Crvena Reka",
+      "Zip": 18313,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Crvena Crkva",
+      "Zip": 26323,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Crvenka",
+      "Zip": 25220,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Crepaja",
+      "Zip": 26213,
+      "County": "Južnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Crkvine",
+      "Zip": 36321,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Crna Bara",
+      "Zip": 15355,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Crna Bara",
+      "Zip": 23328,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Crna Trava",
+      "Zip": 16215,
+      "County": "Jablanički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Crnoklište",
+      "Zip": 18304,
+      "County": "Pirotski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čajetina",
+      "Zip": 31310,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čalma",
+      "Zip": 22231,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čantavir",
+      "Zip": 24220,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čačak",
+      "Zip": 32000,
+      "County": "Moravički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čelarevo",
+      "Zip": 21413,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čenej",
+      "Zip": 21233,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čenta",
+      "Zip": 23266,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čerević",
+      "Zip": 21311,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čestereg",
+      "Zip": 23215,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čečina",
+      "Zip": 18417,
+      "County": "Nišavski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čitluk",
+      "Zip": 18232,
+      "County": "Zaječarski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čitluk",
+      "Zip": 37208,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čoka",
+      "Zip": 23320,
+      "County": "Severnobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čonoplja",
+      "Zip": 25210,
+      "County": "Zapadnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čortanovci",
+      "Zip": 22326,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čukojevac",
+      "Zip": 36220,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čumić",
+      "Zip": 34322,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čurug",
+      "Zip": 21238,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Džep",
+      "Zip": 17514,
+      "County": "Pčinjski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Džigolj",
+      "Zip": 18405,
+      "County": "Toplički okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Šabac",
+      "Zip": 15000,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Šajkaš",
+      "Zip": 21244,
+      "County": "Južnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Šarbanovac",
+      "Zip": 19373,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Šarbanovac-Timok",
+      "Zip": 19379,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Šašinci",
+      "Zip": 22425,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Šepšin",
+      "Zip": 11433,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Šetonje",
+      "Zip": 12309,
+      "County": "Braničevski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Šid",
+      "Zip": 22239,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Šilovo",
+      "Zip": 38252,
+      "County": "Kosovskopomoravski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Šimanovci",
+      "Zip": 22310,
+      "County": "Sremski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Šljivovac",
+      "Zip": 34219,
+      "County": "Šumadijski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Šljivovica",
+      "Zip": 31244,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Šljivovo",
+      "Zip": 37239,
+      "County": "Rasinski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Štavalj",
+      "Zip": 36311,
+      "County": "Zlatiborski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Štitar",
+      "Zip": 15354,
+      "County": "Mačvanski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Štitare",
+      "Zip": 36314,
+      "County": "Raški okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Štrpce",
+      "Zip": 38236,
+      "County": "Kosovski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Štubik",
+      "Zip": 19303,
+      "County": "Borski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Šupljak",
+      "Zip": 24418,
+      "County": "Severnobački okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Šurjan",
+      "Zip": 23254,
+      "County": "Srednjobanatski okrug",
+      "CountryID":1
+    },
+    {
+      "CityName": "Grocka",
+      "Zip": 11306,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Surčin",
+      "Zip": 11271,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Batajnica",
+      "Zip": 11273,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Savski venac",
+      "Zip": 11000,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Stari grad",
+      "Zip": 11000,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Vračar",
+      "Zip": 11000,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Voždovac",
+      "Zip": 11010,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Čukarica",
+      "Zip": 11030,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zvezdara",
+      "Zip": 11050,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Palilula",
+      "Zip": 11060,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Novi Beograd",
+      "Zip": 11070,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Zemun",
+      "Zip": 11080,
+      "County": "Grad Beograd",
+      "CountryID":1
+    },
+    {
+      "CityName": "Rakovica",
+      "Zip": 11090,
+      "County": "Grad Beograd",
+      "CountryID":1
+    }
+  ]
+}
